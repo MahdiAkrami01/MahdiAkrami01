@@ -1,7 +1,7 @@
 # 💫 About Mahdi Akrami
 ### Senior PHP and Full Stack WordPress Developer
 
-💻 Web Developer<br>🚀 PHP & JS Expert<br>🧙‍♂️ WordPress Wizard<br>⚙️ Microcontroller Fan<br>🌟 C++ Lover
+🐧 Linux<br>💻 Web Developer<br>🚀 PHP & JS Expert<br>🧙‍♂️ WordPress Wizard<br>⚙️ Microcontroller Fan<br>🌟 C++ Lover
 
 [![](https://visitcount.itsvg.in/api?id=akramipro&icon=1&color=0&pretty=true)](https://visitcount.itsvg.in)
 
